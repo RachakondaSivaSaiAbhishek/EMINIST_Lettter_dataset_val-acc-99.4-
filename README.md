@@ -6,8 +6,3 @@ When these systems are applied to https://www.itl.nist.gov/iaui/vip/cs_links/EMN
 # Instructions
 1) Save the model in .hdf5 format
 2) run the program with certain test data
-
-## Screenshots
-<center><img src="https://drive.google.com/file/d/1KrJ__dcxo9tLhSvd3kPJrsV49baT0i0m/view?usp=share_link"></center>
-<center><img src="https://drive.google.com/file/d/1WDCiU-CmHwc5XGkjsLZjaeXFyWedeuKm/view?usp=share_link"></center>
-<center><img src="https://drive.google.com/file/d/1_PRNdxqEYbPGxDncqQWIgWZSugJlzV60/view?usp=share_link"></center

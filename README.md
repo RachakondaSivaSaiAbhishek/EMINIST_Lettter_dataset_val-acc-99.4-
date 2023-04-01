@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/crawford/emnist
 2) run the program with certain test data
 
 
-# Introduction and Procedure  :
+# Introduction:
 
 In this project 
 we implemented a system for recognizing handwritten digits using a Convolutional
@@ -47,6 +47,8 @@ Project Code Overview
 7. Save the trained model
 8. Test the model on new instances from the test set and display the images
 9. Make predictions using the saved model and print the results
+
+# Steps to be followed :
 By following these steps, we built a functional system for recognizing handwritten digits using a
 Convolutional Neural Network and the EMNIST Digits dataset.
 Adapting the Model to Different EMNIST Datasets
